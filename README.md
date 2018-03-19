@@ -1,6 +1,6 @@
 # DjangoAzure - Python 3.6.4 
 
-##Building a Django app in a flash
+## Building a Django app in a flash
 
 This is a template to build a Django app on Azure with the static folder at the root. 
 
