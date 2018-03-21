@@ -10,3 +10,9 @@ As this starter app has Python 3.6.4,  check out [this article](https://docs.mic
 ## Deployment
 
 Django apps on Azure can be easily customizable with [VSTS or GitHub/Bitbucket repo](https://docs.microsoft.com/en-us/vsts/build-release/apps/cd/azure/aspnet-core-to-azure-webapp?tabs=github).
+
+
+## Install PostgreSQL databases
+
+[Create](https://docs.microsoft.com/en-au/azure/postgresql/) and connect to databases or migrate data, 
+
